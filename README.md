@@ -1,4 +1,4 @@
-# Hi, I'm Nandini Devi.P
+## Hi, I'm Nandini Devi.P
 ## Aspiring AI Engineer | Generative AI | Python | LLMs | Machine Learning | Cloud Computing 
 # MS in Computer Science at Central Michigan University, graduating December 2026.
 - My experience includes developing agentic AI applications, integrating large language models with real-time data sources, building Python-based backend systems, and working with cloud and data engineering technologies.
