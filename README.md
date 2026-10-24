@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**NandiniDevi03/NandiniDevi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Nandini Devi.P
+## Aspiring AI Engineer | Generative AI | Python | LLMs | Machine Learning | Cloud Computing 
+# MS in Computer Science at Central Michigan University, graduating December 2026.
+- My experience includes developing agentic AI applications, integrating large language models with real-time data sources, building Python-based backend systems, and working with cloud and data engineering technologies.
+- I'm passionate about transforming complex problems into practical, scalable AI solutions and continuously expanding my expertise in Generative AI, LLM orchestration, and cloud-based AI deployment.
+## Technical Skills:
+Programming: Python, SQL, HTML, CSS
+AI: Scikit-learn, TensorFlow, PyTorch, Deep Learning, Generative AI, LLMs
+Backend Development: Flask, Django, FastAPI, REST APIs
+Data Engineering: Apache Spark, Kafka, DuckDB, Pandas
+Cloud & DevOps: AWS, Docker, Git, GitHub, Linux
+**Career Goal:** AI Engineer / Generative AI Engineer / AI/ML Engineer
+# Connect With Me :
+LinkedIn: www.linkedin.com/in/nandini-reddy21
