@@ -9,7 +9,6 @@
 - Backend Development: Flask, Django, FastAPI, REST APIs
 - Data Engineering: Apache Spark, Kafka, DuckDB, Pandas
 - Cloud & DevOps: AWS, Docker, Git, GitHub, Linux
-  
-**Career Goal:** AI Engineer / Generative AI Engineer / AI/ML Engineer
-# Connect With Me :
+## Connect With Me :
 LinkedIn: www.linkedin.com/in/nandini-reddy21
+**Career Goal:** AI Engineer / Generative AI Engineer / AI/ML Engineer
